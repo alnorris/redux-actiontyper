@@ -2,6 +2,8 @@
 
 Helper to create slightly less verbose redux action types. Uses ES6 Proxies!
 
+Includes optional prefixer  
+
 `npm install actiontyper --save`
 
 ## Old way
