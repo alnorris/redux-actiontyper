@@ -1,6 +1,6 @@
 {
 	"name": "actiontyper",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Helper to create less verbose action types",
 	"main": "index.js",
 	"scripts": {
