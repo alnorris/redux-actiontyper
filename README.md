@@ -2,6 +2,8 @@
 
 Helper to create slightly less verbose redux action types. Uses ES6 Proxies!
 
+**Highly Performant**: Proxy is only run once at startup.
+
 Includes optional prefixer  
 
 `npm install actiontyper --save`
