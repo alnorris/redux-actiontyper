@@ -1,14 +1,14 @@
 {
-	"name": "actiontyper",
-	"version": "0.0.4",
-	"description": "Helper to create less verbose action types",
+	"name": "redux-actiontyper",
+	"version": "0.0.5",
+	"description": "Helper to create less verbose action types for Redux",
 	"main": "dist.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/alnorris/actiontyper.git"
+		"url": "git+https://github.com/redux-alnorris/actiontyper.git"
 	},
 	"keywords": [
 		"redux",
@@ -18,7 +18,7 @@
 	"author": "Alister Norris <hi@alisternorris.com>",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/alnorris/actiontyper/issues"
+		"url": "https://github.com/alnorris/redux-actiontyper/issues"
 	},
-	"homepage": "https://github.com/alnorris/actiontyper#readme"
+	"homepage": "https://github.com/alnorris/redux-actiontyper#readme"
 }
