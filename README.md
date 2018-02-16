@@ -28,6 +28,3 @@ const { GET_CLIENTS,
     
    console.log(GET_CLIENTS)  // HomeState/GET_CLIENTS
 ```
-
-`
-    `
