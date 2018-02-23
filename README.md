@@ -32,10 +32,13 @@ const SET_CLIENTS_FILTER = 'SET_CLIENTS_FILTER'
 ## New Way
 
 ```javascript
+import actionTyper from 'redux-actiontyper';
+
+
 const { GET_CLIENTS,
 	GET_CLIENTS_SUCCESS,
 	GET_CLIENTS_FAIL, 
-	SET_CLIENTS_FILTER } = actionTyper('HomeState/')
+	SET_CLIENTS_FILTER } = actionTyper('HomeState/');
     
    console.log(GET_CLIENTS)  // HomeState/GET_CLIENTS
 ```
