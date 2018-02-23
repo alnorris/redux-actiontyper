@@ -34,7 +34,6 @@ const SET_CLIENTS_FILTER = 'SET_CLIENTS_FILTER'
 ```javascript
 import actionTyper from 'redux-actiontyper';
 
-
 const { GET_CLIENTS,
 	GET_CLIENTS_SUCCESS,
 	GET_CLIENTS_FAIL, 
