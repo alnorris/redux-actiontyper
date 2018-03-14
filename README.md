@@ -40,4 +40,5 @@ const { GET_CLIENTS,
 	SET_CLIENTS_FILTER } = actionTyper('HomeState/');
     
 console.log(GET_CLIENTS)  // HomeState/GET_CLIENTS
+console.log(GET_CLIENTS_FAIL)  // HomeState/GET_CLIENTS_FAIL
 ```
